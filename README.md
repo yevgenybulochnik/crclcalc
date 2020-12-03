@@ -1,6 +1,6 @@
 # Typescript Library Boilerplate
 
-Typescript boilerplate setup for libs and packages. Includes webpack setup to create minified bundlese and jest for testing
+Typescript boilerplate setup for libs and packages. Includes webpack setup to create minified bundles and jest for testing
 
 ### Tests
 Execute `yarn test` to run all test cases using jest
